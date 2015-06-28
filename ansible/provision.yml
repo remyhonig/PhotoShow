@@ -27,6 +27,7 @@
     - configuration
 
     # Create the initial admin user
+    # Comment out this step to use PhotoShow's built-in admin account creation page
     - admin_user
 
     # Run in a docker container
